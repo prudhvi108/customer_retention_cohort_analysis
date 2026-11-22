@@ -68,16 +68,16 @@ Power BI dashboard (4 pages)
 ## Dashboard
 
 ### 1. Revenue overview
-![Revenue overview](docs%20images/01_revenue_overview.png)
+![Revenue overview](customer-retention-cohort-analysis/docs%20images/01_revenue_overview.png)
 
 ### 2. Cohort retention
-![Cohort retention](docs%20images/02_cohort_retention.png)
+![Cohort retention](customer-retention-cohort-analysis/docs%20images/02_cohort_retention.png)
 
 ### 3. Customer segments
-![Customer segments](docs%20images/03_customer_segments.png)
+![Customer segments](customer-retention-cohort-analysis/docs%20images/03_customer_segments.png)
 
 ### 4. Key findings and recommendations
-![Key findings](docs%20images/04_insights.png)
+![Key findings](customer-retention-cohort-analysis/docs%20images/04_insights.png)
 
 ---
 
@@ -101,7 +101,6 @@ customer-retention-cohort-analysis/
 │   └── retention_cohort_analysis.sql
 ├── dashboard/
 │   ├── Retail_cohort_analysis_Dashboard.pbix
-│   └── Retail_cohort_analysis_Dashboard.pdf
 └── docs/images/
 ```
 
